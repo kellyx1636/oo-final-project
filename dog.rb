@@ -5,23 +5,23 @@ class Dog
         
     end 
     
-    def wellness 
+    # def health 
         
-    end 
+    # end 
     
-    def health 
+    # def happiness
         
-    end 
+    # end 
     
-    def happiness
+    # def eating 
         
-    end 
+    # end 
     
-    def eat 
+    # def exercise 
         
-    end 
+    # end
     
-    def exercise 
+    # def wellness 
         
-    end
+    # end 
 end 

@@ -7,10 +7,6 @@ class Owner
         buddies = Hash.new
     end 
     
-    # def wellness 
-        
-    # end 
-    
     # def health 
         
     # end 
@@ -26,4 +22,8 @@ class Owner
     # def exercise 
         
     # end
+    
+    # def wellness 
+        
+    # end 
 end 
