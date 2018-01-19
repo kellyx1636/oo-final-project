@@ -1,27 +1,29 @@
 class Owner 
-    attr_accessor 
+    attr_accessor :owner_name 
     
-    def initialize
-        
+    def initialize(owner_name, dog_name)
+        @owner_name = owner_name 
+        @dog_name = dog_name 
+        buddies = Hash.new
     end 
     
-    def wellness 
+    # def wellness 
         
-    end 
+    # end 
     
-    def health 
+    # def health 
         
-    end 
+    # end 
     
-    def happiness
+    # def happiness
         
-    end 
+    # end 
     
-    def eating 
+    # def eating 
         
-    end 
+    # end 
     
-    def exercise 
+    # def exercise 
         
-    end
+    # end
 end 
